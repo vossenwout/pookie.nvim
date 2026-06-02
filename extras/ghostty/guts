@@ -1,0 +1,46 @@
+# ANSI black
+palette = 0=#101113
+# ANSI red
+palette = 1=#93554b
+# ANSI green
+palette = 2=#51606a
+# ANSI yellow
+palette = 3=#ac7f7b
+# ANSI blue
+palette = 4=#697a9a
+# ANSI magenta
+palette = 5=#83799C
+# ANSI cyan
+palette = 6=#7a837c
+# ANSI white
+palette = 7=#9f9e99
+
+# Bright ANSI black / gray
+palette = 8=#4a4253
+# Bright ANSI red
+palette = 9=#93554b
+# Bright ANSI green
+palette = 10=#a7d8b0
+# Bright ANSI yellow
+palette = 11=#e1ffe5
+# Bright ANSI blue
+palette = 12=#8288A0
+# Bright ANSI magenta
+palette = 13=#997e95
+# Bright ANSI cyan
+palette = 14=#879493
+# Bright ANSI white
+palette = 15=#A8A7A2
+
+# Terminal background color
+background = #101113
+# Default text color
+foreground = #9f9e99
+# Cursor color
+cursor-color = #9f9e99
+# Text color under the cursor
+cursor-text = #101113
+# Background color for selected text
+selection-background = #4a4253
+# Foreground color for selected text
+selection-foreground = #e1ffe5
