@@ -3,7 +3,7 @@
 Gritty, dark, muted Neovim colorscheme that is easy on your eyes while trying to convey the desperate but inspiring mood of Berserk, which is what programming often feels like :)
 
 <div align="center">
-  <img alt="guts.nvim preview" src="https://github.com/user-attachments/assets/1a6dfee0-0f32-4ed2-bb18-2ada0b3bdd52" width="900">
+  <img alt="guts.nvim preview" src="https://github.com/user-attachments/assets/002b824d-6354-452f-8191-008bd9a339ee" width="900">
 </div>
 
 ## Color references
