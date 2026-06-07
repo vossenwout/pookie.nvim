@@ -1,7 +1,7 @@
 local M = {}
 
 -- All highlight groups from guts/highlights/ that get applied--
-local highlight_modules = { "editor", "fzf_lua", "render_markdown", "treesitter" }
+local highlight_modules = { "editor", "fzf_lua", "lsp", "render_markdown", "treesitter" }
 
 function M.dev_reload()
 	for name, _ in pairs(package.loaded) do
